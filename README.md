@@ -4,8 +4,8 @@ This is a simple script to crop audio files.
 
 This includes features like :
 - Crop audio file
-- specify number of seconds to remove at the beginning of the audio file
-- specify number of seconds to remove at the ending of the audio file
+- Specify number of seconds to remove at the beginning of the audio file
+- Specify number of seconds to remove at the ending of the audio file
 - Return the cropping operation logs
 
 #Prerequisites
