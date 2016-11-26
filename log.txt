@@ -1,0 +1,4 @@
+Cropping the 'plop.mp3' file : 
+Deletion of the first 20.0 second(s) ; 
+Deletion of the last 10.0 second(s) ; 
+Recording in 'plop (cropped).mp3'.
