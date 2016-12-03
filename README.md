@@ -1,4 +1,4 @@
-![Image](https://raw.githubusercontent.com/MrDoomy/MusicCropper/master/dev/music_cropper.png)
+![Image](https://raw.githubusercontent.com/MrDoomy/MusicCropper/master/dev/images/music_cropper.png)
 
 This is a simple script to crop audio files.
 
@@ -17,6 +17,10 @@ You need to have a Python environment on your computer and this package :
 ```shell
    sudo pip install pydub
 ```
+
+#Screenshot
+
+![Image](https://raw.githubusercontent.com/MrDoomy/MusicCropper/master/dev/screenshots/computer.png)
 
 #License
 
