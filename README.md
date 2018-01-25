@@ -8,7 +8,7 @@ This includes features like :
 - Specify number of seconds to remove at the ending of the audio file
 - Return the cropping operation logs
 
-#Prerequisites
+# Prerequisites
 
 You need to have a Python environment on your computer and this package :
 
@@ -18,11 +18,11 @@ You need to have a Python environment on your computer and this package :
    sudo pip install pydub
 ```
 
-#Screenshot
+# Screenshot
 
 ![Image](https://raw.githubusercontent.com/MrDoomy/MusicCropper/master/dev/screenshots/computer.png)
 
-#License
+# License
 
     Copyright (C) 2016 Damien Chazoule
 
